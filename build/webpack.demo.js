@@ -50,7 +50,8 @@ const webpackConfig = {
     rules: [{
         test: /\.(jsx?|babel|es6)$/,
         include: process.cwd(),
-        exclude: /node_modules/
+        exclude: /node_modules/,
+        loader: 'babel-loader'
       },
       {
         test: /\.vue$/,
