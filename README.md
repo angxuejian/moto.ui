@@ -1,7 +1,7 @@
 # moto.ui
 <!-- Macross：超时空要塞 -->
 
-VUE2.0的UI / 工具示例库
+VUE2.0的UI示例库
 
 
 ### tisp

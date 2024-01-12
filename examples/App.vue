@@ -10,6 +10,9 @@ export default {
 
     created() {
         console.log('hello world')
-    }
+    },
+    props: {
+
+    },
 }
 </script>
